@@ -1,0 +1,16 @@
+{
+    "users": [
+      { "id": 1, "name": "Alice", "role": "Admin" },
+      { "id": 2, "name": "Bob", "role": "Editor" }
+    ],
+    "roles": [
+      { "id": 1, "name": "Admin" },
+      { "id": 2, "name": "Editor" }
+    ],
+    "permissions": [
+      { "id": 1, "name": "Read" },
+      { "id": 2, "name": "Write" },
+      { "id": 3, "name": "Delete" }
+    ]
+  }
+  
